@@ -1,0 +1,205 @@
+\begin{thebibliography}{10}
+
+\bibitem{einstein1916foundation}
+Albert Einstein.
+\newblock The foundation of the general theory of relativity.
+\newblock {\em Annalen der Physik}, 49(7):769--822, 1916.
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in neural information processing systems}, 25, 2012.
+
+\bibitem{brown2020language}
+Tom~B Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla
+  Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell,
+  et~al.
+\newblock Language models are few-shot learners.
+\newblock {\em Advances in neural information processing systems},
+  33:1877--1901, 2020.
+
+\bibitem{robbins1951stochastic}
+Herbert Robbins and Sutton Monro.
+\newblock A stochastic approximation method.
+\newblock {\em The annals of mathematical statistics}, pages 400--407, 1951.
+
+\bibitem{kingma2014adam}
+Diederik~P Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{amari2007information}
+Shun-ichi Amari.
+\newblock {\em Information geometry and its applications}.
+\newblock Springer, 2007.
+
+\bibitem{amari2016information}
+Shun-ichi Amari.
+\newblock Information geometry and machine learning.
+\newblock {\em IEICE Transactions on Fundamentals of Electronics,
+  Communications and Computer Sciences}, 99(10):1770--1784, 2016.
+
+\bibitem{amagi1998natural}
+Shun-ichi Amari.
+\newblock Natural gradient works efficiently in learning.
+\newblock {\em Neural computation}, 10(2):251--276, 1998.
+
+\bibitem{bronstein2021geometric}
+Michael~M Bronstein, Joan Bruna, Taco Cohen, and Petar Veli{\v{c}}kovi{\'c}.
+\newblock Geometric deep learning: Grids, groups, graphs, geodesics, and
+  gauges.
+\newblock {\em arXiv preprint arXiv:2104.13478}, 2021.
+
+\bibitem{grimm1994computational}
+Cindy~M Grimm and John~F Hughes.
+\newblock Computational conformal geometry.
+\newblock {\em Proceedings of the third international conference on Computer
+  graphics and interactive techniques in Australasia and South East Asia},
+  pages 67--76, 1994.
+
+\bibitem{crane2013digital}
+Keenan Crane, Fernando de~Goes, Mathieu Desbrun, and Peter Schr{\"o}der.
+\newblock Digital geometry processing with discrete exterior calculus.
+\newblock {\em ACM SIGGRAPH 2013 courses}, pages 1--126, 2013.
+
+\bibitem{pinkall1993computing}
+Ulrich Pinkall and Konrad Polthier.
+\newblock Computing discrete minimal surfaces and their conjugates.
+\newblock {\em Experimental mathematics}, 2(1):15--36, 1993.
+
+\bibitem{baydin2017automatic}
+At{\i}l{\i}m~G{\"u}ne{\c{s}} Baydin, Barak~A Pearlmutter, Alexey~Andreyevich
+  Radul, and Jeffrey~Mark Siskind.
+\newblock Automatic differentiation in machine learning: a survey.
+\newblock {\em Journal of machine learning research}, 18, 2017.
+
+\bibitem{do1976differential}
+Manfredo~P Do~Carmo.
+\newblock {\em Differential geometry}.
+\newblock Prentice-Hall, 1976.
+
+\bibitem{lee2018introduction}
+John~M Lee.
+\newblock {\em Introduction to Riemannian manifolds}.
+\newblock Springer, 2018.
+
+\bibitem{nickel2017poincare}
+Maximilian Nickel and Douwe Kiela.
+\newblock Poincar\'e embeddings for learning hierarchical representations.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\bibitem{ganea2018hyperbolic}
+Octavian Ganea, Gary B{\'e}cigneul, and Thomas Hofmann.
+\newblock Hyperbolic entailment cones for learning hierarchical embeddings.
+\newblock {\em International Conference on Machine Learning}, pages 1646--1655,
+  2018.
+
+\bibitem{kipf2016semi}
+Thomas~N Kipf and Max Welling.
+\newblock Semi-supervised classification with graph convolutional networks.
+\newblock {\em arXiv preprint arXiv:1609.02907}, 2016.
+
+\bibitem{velivckovic2017graph}
+Petar Veli{\v{c}}kovi{\'c}, Guillem Cucurull, Arantxa Casanova, Adriana Romero,
+  Pietro Lio, and Yoshua Bengio.
+\newblock Graph attention networks.
+\newblock {\em arXiv preprint arXiv:1710.10903}, 2017.
+
+\bibitem{tenenbaum2000global}
+Joshua~B Tenenbaum, Vin~de Silva, and John~C Langford.
+\newblock A global geometric framework for nonlinear dimensionality reduction.
+\newblock {\em science}, 290(5500):2319--2323, 2000.
+
+\bibitem{roweis2000nonlinear}
+Sam~T Roweis and Lawrence~K Saul.
+\newblock Nonlinear dimensionality reduction by locally linear embedding.
+\newblock {\em science}, 290(5500):2323--2326, 2000.
+
+\bibitem{fefferman2016testing}
+Charles Fefferman, Sanjoy Mitter, and Hariharan Narayanan.
+\newblock Testing the manifold hypothesis.
+\newblock {\em Journal of the American Mathematical Society}, 29(4):983--1049,
+  2016.
+
+\bibitem{kingma2013auto}
+Diederik~P Kingma and Max Welling.
+\newblock Auto-encoding variational bayes.
+\newblock {\em arXiv preprint arXiv:1312.6114}, 2013.
+
+\bibitem{goodfellow2014generative}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial nets.
+\newblock {\em Advances in neural information processing systems}, 27, 2014.
+
+\bibitem{rezende2015variational}
+Danilo~Jimenez Rezende and Shakir Mohamed.
+\newblock Variational inference with normalizing flows.
+\newblock {\em International conference on machine learning}, pages 1530--1538,
+  2015.
+
+\bibitem{gromov1999metric}
+Misha Gromov.
+\newblock {\em Metric structures for Riemannian and non-Riemannian spaces}.
+\newblock Springer, 1999.
+
+\bibitem{springborn2008variational}
+Boris Springborn, Peter Schr{\"o}der, and Ulrich Pinkall.
+\newblock A variational principle for weighted delaunay triangulations and
+  hyperideal polyhedra.
+\newblock {\em Journal of Differential Geometry}, 78(2):333--367, 2008.
+
+\bibitem{sethian1999fast}
+James~A Sethian.
+\newblock Fast marching methods.
+\newblock {\em SIAM review}, 41(2):199--235, 1999.
+
+\bibitem{misner1973gravitation}
+Charles~W Misner, Kip~S Thorne, and John~Archibald Wheeler.
+\newblock {\em Gravitation}.
+\newblock Freeman, 1973.
+
+\bibitem{hawking1973large}
+Stephen~W Hawking and George~FR Ellis.
+\newblock The large scale structure of space-time.
+\newblock 1973.
+
+\bibitem{thurston1997geometry}
+William~P Thurston.
+\newblock {\em Three-dimensional geometry and topology}, volume~1.
+\newblock Princeton university press, 1997.
+
+\bibitem{cybenko1989approximation}
+George Cybenko.
+\newblock Approximation by superpositions of a sigmoidal function.
+\newblock {\em Mathematics of control, signals and systems}, 2(4):303--314,
+  1989.
+
+\bibitem{gunther1990gauge}
+Matthias G{\"u}nther.
+\newblock Gauge theory of the deformation of hypersurfaces.
+\newblock {\em Annals of Global Analysis and Geometry}, 8(3):261--293, 1990.
+
+\bibitem{edelsbrunner2008persistent}
+Herbert Edelsbrunner and John Harer.
+\newblock Persistent homology—a survey.
+\newblock {\em Contemporary mathematics}, 453:257--282, 2008.
+
+\bibitem{edelsbrunner2010computational}
+Herbert Edelsbrunner and John~L Harer.
+\newblock {\em Computational topology: an introduction}.
+\newblock American Mathematical Society, 2010.
+
+\bibitem{mehta2019high}
+Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre~GR Day, Clint Richardson,
+  Charles~K Fisher, and David~J Schwab.
+\newblock A high-bias, low-variance introduction to machine learning for
+  physicists.
+\newblock {\em Physics reports}, 810:1--124, 2019.
+
+\bibitem{goodfellow2014explaining}
+Ian~J Goodfellow, Jonathon Shlens, and Christian Szegedy.
+\newblock Explaining and harnessing adversarial examples.
+\newblock {\em arXiv preprint arXiv:1412.6572}, 2014.
+
+\end{thebibliography}

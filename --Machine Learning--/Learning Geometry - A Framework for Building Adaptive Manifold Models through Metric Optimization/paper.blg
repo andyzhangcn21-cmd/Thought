@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Warning--empty journal in hawking1973large
+You've used 37 entries,
+            1791 wiz_defined-function locations,
+            649 strings with 9157 characters,
+and the built_in function-call counts, 8120 in all, are:
+= -- 734
+> -- 363
+< -- 6
++ -- 137
+- -- 100
+* -- 506
+:= -- 1309
+add.period$ -- 111
+call.type$ -- 37
+change.case$ -- 30
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 372
+empty$ -- 770
+format.name$ -- 100
+if$ -- 1795
+int.to.chr$ -- 0
+int.to.str$ -- 37
+missing$ -- 44
+newline$ -- 188
+num.names$ -- 37
+pop$ -- 104
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 177
+stack$ -- 0
+substring$ -- 523
+swap$ -- 80
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 80
+width$ -- 39
+write$ -- 395
+(There was 1 warning)
